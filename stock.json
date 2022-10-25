@@ -1,0 +1,8 @@
+[
+
+    {"id": 1, "nombre": "Arroz de coliflor con pollo",  "tipo": "keto", "cantidad": 1, "desc": "Suave", "precio": 1200,  "img": "./imagenes/arrozDeColiflor.jpeg" },
+    {"id": 2, "nombre": "Suprema a la fugazzeta con puré de cabutia",  "tipo": "keto", "cantidad": 1, "desc": "picante", "precio": 1000, "img": "./imagenes/SupremaALaFugazeta.jpeg"},
+    {"id": 3, "nombre": "Fideos de zucchini con salsa bolognesa ", "tipo": "keto", "cantidad": 1, "desc": "picante", "precio": 1100, "img": "./imagenes/fideosZuquini.jpeg"},
+    {"id": 4, "nombre": "Carne al horno con puré de coliflor", "tipo": "keto", "cantidad": 1, "desc": "suave", "precio":1250 ,  "img": "./imagenes/carneAlHorno.jpeg"}
+ 
+]
